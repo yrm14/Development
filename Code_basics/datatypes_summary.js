@@ -34,3 +34,8 @@
 //        Object  =>  object
 
 
+
+// // 
+// Stack allocation - Primitive Datatypes
+// Heap allocation - Non Primitive Datatypes
+
